@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ToDoAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B252F62-E25A-472C-B74F-7B3FDF05D61D}|TodoApi\\TodoApi.csproj|c:\\users\\pc\\source\\repos\\todoapi\\todoapi\\sqltemplate\\transaction.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{9B252F62-E25A-472C-B74F-7B3FDF05D61D}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\sqltemplate\\transaction.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B252F62-E25A-472C-B74F-7B3FDF05D61D}|TodoApi\\TodoApi.csproj|c:\\users\\pc\\source\\repos\\todoapi\\todoapi\\sqltemplate\\insertuserinfo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{9B252F62-E25A-472C-B74F-7B3FDF05D61D}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\sqltemplate\\insertuserinfo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B252F62-E25A-472C-B74F-7B3FDF05D61D}|TodoApi\\TodoApi.csproj|c:\\users\\pc\\source\\repos\\todoapi\\todoapi\\sqltemplate\\insertuserinfo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{9B252F62-E25A-472C-B74F-7B3FDF05D61D}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\sqltemplate\\insertuserinfo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B252F62-E25A-472C-B74F-7B3FDF05D61D}|TodoApi\\TodoApi.csproj|c:\\users\\pc\\source\\repos\\todoapi\\todoapi\\sqltemplate\\transaction.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{9B252F62-E25A-472C-B74F-7B3FDF05D61D}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\sqltemplate\\transaction.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaction.sql ",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ToDoAPI\\TodoApi\\SqlTemplate\\Transaction.sql",
+              "RelativeDocumentMoniker": "TodoApi\\SqlTemplate\\Transaction.sql",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ToDoAPI\\TodoApi\\SqlTemplate\\Transaction.sql",
+              "RelativeToolTip": "TodoApi\\SqlTemplate\\Transaction.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-08T23:41:57.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertUserInfo.sql ",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ToDoAPI\\TodoApi\\SqlTemplate\\InsertUserInfo.sql",
+              "RelativeDocumentMoniker": "TodoApi\\SqlTemplate\\InsertUserInfo.sql",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ToDoAPI\\TodoApi\\SqlTemplate\\InsertUserInfo.sql",
+              "RelativeToolTip": "TodoApi\\SqlTemplate\\InsertUserInfo.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-08T23:36:36.894Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TodoApi",
+    "\\TodoApi\\SqlTemplate"
   ],
-  "SelectedNode": "\\C:\\Users\\PC\\source\\repos\\ToDoAPI",
+  "SelectedNode": "\\TodoApi\\SqlTemplate\\InsertUserInfo.sql",
   "PreviewInSolutionExplorer": false
 }
